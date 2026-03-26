@@ -383,7 +383,7 @@
   margin-top: auto;
   padding-block: var(--space-8);
   border-top: 1px solid var(--color-divider);
-  text-align: center;
+  text-align: left;
 }
 
 .footer-text,
